@@ -3,11 +3,19 @@
         "name": "Python",
         "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
     },
+
     
     {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+        "name": "Flask",
+        "icon": ""
     },
+
+
+    {
+        "name": "Django",
+        "icon": ""
+    },
+    
     
     {
         "name": "HTML5",
@@ -21,11 +29,6 @@
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
-    
-    {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
-    },
     {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
@@ -34,11 +37,6 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-
-    {
-        "name": "Data Analysis",
-        "icon": "https://img.icons8.com/?size=100&id=UXMRwP4FFCCN&format=png&color=000000"
     },
     
     {
@@ -52,5 +50,11 @@
     {
         "name": "Arduino",
         "icon": "https://img.icons8.com/?size=100&id=13444&format=png&color=000000"
+    },
+    
+     {
+        "name": "Android",
+        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
     }
+    
 ]
